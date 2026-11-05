@@ -1,0 +1,22 @@
+# Tajne
+.env
+
+# Upute i konfiguracija za Claude Code (ostaju samo lokalno)
+CLAUDE.md
+.claude/
+POCETAK.md
+docs/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Generirani rezultati
+izlaz/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
